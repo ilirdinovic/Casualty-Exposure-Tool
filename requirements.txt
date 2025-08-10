@@ -1,4 +1,4 @@
-shell
+ini
 
 streamlit>=1.36,<1.38
 pandas==2.2.2
